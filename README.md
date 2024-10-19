@@ -12,7 +12,6 @@
 
 ### chemistry 
 * finally do symbolic rewriting of molecules - copy mathematica
-* 
 
 ### bio 
 * hardware building a home lab
@@ -42,6 +41,14 @@
 * mnist in 15 different ways / languages 
 * diy twitch that allows user composition of sources 
 * finish basic hypergraph rewriting in rust
+
+### process and av
+* transcribe all my videos (just with yt-dlp) ,make them searchable notebook lm/rag thing? 
+    - retrieve timestamp and maybe be able to quickly pull up the link at the correct timestamp 
+    - everynight or something it resyncs to a git repo so its always up to date 
+* streambot
+    * eventually will be openobsbot, but for now a rpi5 with obs in an enclosure with a super simple touchscreen to start streaming or have an assistant.
+* cute recording light that turns on when im live
 
 ### cas3 
 * merge jupyter pr  
