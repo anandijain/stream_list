@@ -1,12 +1,12 @@
 # stream_list
 
 ### cad 
-* existing projects (paint turret)
+* paint turret
 * DIY cad kernel
 * 3d reconstruction of printed geometry 
 
 ### textiles
-* design of flexible materials / cad to support designing a tent
+* computer design of flexible materials / cad to support / designing a tent
 * diy tufting robot
 * manufacturing 100+ triangular canvases of different sides to make a large tufted scultpure 
 
