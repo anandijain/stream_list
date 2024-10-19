@@ -10,6 +10,10 @@
 * diy tufting robot
 * manufacturing 100+ triangular canvases of different sides to make a large tufted scultpure 
 
+### chemistry 
+* finally do symbolic rewriting of molecules - copy mathematica
+* 
+
 ### bio 
 * hardware building a home lab
 * make cells glow
@@ -17,6 +21,7 @@
 * make skin glow 
 * glowing tatoos
 * optical circuits. modulate tissue properties
+* induce pluripotency 
 
 ### bend
 * diy interaction combinators 
@@ -29,11 +34,18 @@
 * ski combinators? what do the resulting graphs look like?
 
 ### misc
-* enzyme 
-* ai evals
-* lean
+* enzyme rust mnist 
+* ai evals - o1 
+* lean basic euclidean geometry - is_rectangular_cuboid
 * apis for analytics
 * stretchy pcbs 
 * mnist in 15 different ways / languages 
+* diy twitch that allows user composition of sources 
+* finish basic hypergraph rewriting in rust
+
+### cas3 
+* merge jupyter pr  
+* Function/lambda calculus
+* basic OutputForm 
 
 ### done
