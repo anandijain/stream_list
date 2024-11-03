@@ -73,6 +73,9 @@
 * array of https://www.youtube.com/watch?v=C-V1uXeyGmg 
     * would be cool to make waterproof, have it point at the garage and put a qr code to the streams making it.
     * what happens if you point a projector at the mirror section?
-
+* chaotic magnet toy. attach encoders and drive one with a motor. have it make music 
+    * https://www.cloudflare.com/learning/ssl/lava-lamp-encryption/
+    * https://www.youtube.com/watch?v=kftVqA0UVDY
+    * https://www.youtube.com/shorts/4pF9QDVZmQY
 
 ### done
