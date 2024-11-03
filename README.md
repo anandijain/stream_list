@@ -46,9 +46,11 @@
 * transcribe all my videos (just with yt-dlp) ,make them searchable notebook lm/rag thing? 
     - retrieve timestamp and maybe be able to quickly pull up the link at the correct timestamp 
     - everynight or something it resyncs to a git repo so its always up to date 
+    - https://github.com/anandijain/video_transcripts
 * streambot
     * eventually will be openobsbot, but for now a rpi5 with obs in an enclosure with a super simple touchscreen to start streaming or have an assistant.
 * cute recording light that turns on when im live
+* make a small script that quickly copies and renders the footage from the go pros using ffmpeg 
 
 ### cas3 
 * merge jupyter pr  
