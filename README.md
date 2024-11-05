@@ -62,6 +62,7 @@
     * eventually will be openobsbot, but for now a raspberry pi with obs in an enclosure with a super simple touchscreen to start streaming or have an assistant.
 * cute recording light that turns on when im live
 * make a small script that quickly copies and renders the footage from the go pros using ffmpeg 
+* "how to make a build montage" - go over mark rober, stuffmadehere, etc to see what they do 
 
 ### cas3 
 * merge jupyter pr  
