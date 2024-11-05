@@ -63,6 +63,7 @@
 * cute recording light that turns on when im live
 * make a small script that quickly copies and renders the footage from the go pros using ffmpeg 
 * "how to make a build montage" - go over mark rober, stuffmadehere, etc to see what they do 
+* make a "for tha summer" style edit
 
 ### cas3 
 * merge jupyter pr  
