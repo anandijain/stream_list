@@ -78,5 +78,7 @@
     * https://www.cloudflare.com/learning/ssl/lava-lamp-encryption/
     * https://www.youtube.com/watch?v=kftVqA0UVDY
     * https://www.youtube.com/shorts/4pF9QDVZmQY
+* big inflated rolling lighting. make a large 3d printed base 
+
 
 ### done
