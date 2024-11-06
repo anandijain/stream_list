@@ -2,7 +2,7 @@
 
 ### cad 
 * paint turret
-* DIY cad kernel
+* DIY cad kernel (at least a sketch solver)
 * 3d reconstruction of printed geometry 
 * generative design
     * there are many instances where there are only a few driving parameters for a design-example: DC switching power supply etc. the question is: given a list of specifications can the form factor, circuit, etc be generated? 
