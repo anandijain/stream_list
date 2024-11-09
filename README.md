@@ -79,7 +79,6 @@
     * https://www.cloudflare.com/learning/ssl/lava-lamp-encryption/
     * https://www.youtube.com/watch?v=kftVqA0UVDY
     * https://www.youtube.com/shorts/4pF9QDVZmQY
-* big inflated rolling lighting. make a large 3d printed base 
-
+* big inflated rolling lighting. make a large 3d printed base https://duckylay.com/products/duckylay-duck-lamp. make have kick to turn on? also allow for battery or plug
 
 ### done
