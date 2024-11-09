@@ -51,6 +51,7 @@
 * series going through "Nonlinear Dynamics and Chaos" 
 * cnc etch a sketch
 * obviously a robotic arm 
+* a basic program that lets me use a midi controller like a drum rack to play clips of video then a basic timeline to render it out.
 
 
 ### process and av
