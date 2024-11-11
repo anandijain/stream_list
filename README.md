@@ -51,6 +51,7 @@
 * series going through "Nonlinear Dynamics and Chaos" 
 * cnc etch a sketch
 * obviously a robotic arm 
+* silicone mold (flower holder) https://www.youtube.com/watch?v=RooDSCfF5_U 
 
 
 ### process and av
