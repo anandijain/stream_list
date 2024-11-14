@@ -39,6 +39,7 @@
 * basic euclidean geometry - is_rectangular_cuboid
 * prove Playfair's axiom
 * continue with Mathematics in Lean series 
+* prove that it takes 6 cuts to square a block - or figure out how to show the minimal necesary constraints required in each cut to square the block 
 
 ### misc
 * enzyme rust mnist 
