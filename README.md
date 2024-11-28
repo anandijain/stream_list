@@ -21,9 +21,11 @@
 * make apple skin glow and eat it
 * make skin glow 
 * glowing tatoos
-* optical circuits. modulate tissue properties
+* optical circuits. modulate tissue properties like viscosity 
 * induce pluripotency 
 * grow a dense array of Merkel cells and use an electrode array to encode. then make the world's best touch sensor. like 1000s of times better than our fingers 
+* build an OTTO liquid handler
+
 
 ### bend
 * diy interaction combinators 
