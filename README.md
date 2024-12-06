@@ -58,6 +58,7 @@
 * silicone mold (flower holder) https://www.youtube.com/watch?v=RooDSCfF5_U 
 * a basic program that lets me use a midi controller like a drum rack to play clips of video then a basic timeline to render it out.
 * spotify playlist lyrics search
+* a google earth tour of the silicon supply chain
 
 
 ### process and av
