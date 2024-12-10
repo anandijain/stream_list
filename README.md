@@ -59,6 +59,7 @@
 * a basic program that lets me use a midi controller like a drum rack to play clips of video then a basic timeline to render it out.
 * spotify playlist lyrics search
 * a google earth tour of the silicon supply chain
+* plate techtonics modeling, mineral maps. deep sea mining and ocean acidification
 
 
 ### process and av
