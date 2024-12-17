@@ -60,6 +60,7 @@
 * spotify playlist lyrics search
 * a google earth tour of the silicon supply chain
 * plate techtonics modeling, mineral maps. deep sea mining and ocean acidification
+* legal precedence graph. gather up all court cases and extract dependency information and build a graph
 
 
 ### process and av
