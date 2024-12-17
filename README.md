@@ -61,6 +61,7 @@
 * a google earth tour of the silicon supply chain
 * plate techtonics modeling, mineral maps. deep sea mining and ocean acidification
 * legal precedence graph. gather up all court cases and extract dependency information and build a graph
+* open source genius clone but fully embrace the collective media. not just music but all books videos etc. 
 
 
 ### process and av
