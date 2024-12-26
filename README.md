@@ -14,6 +14,7 @@
 
 ### chemistry 
 * finally do symbolic rewriting of molecules (basically graph pattern objects) - copy mathematica https://www.youtube.com/watch?v=LTgg88jy5w8
+* inverse problem: determine the class or reactions that are energetically favorable and lead to nucleic acids 
 
 ### bio 
 * hardware building a home lab
