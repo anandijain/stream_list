@@ -18,6 +18,9 @@
 
 ### bio 
 * hardware building a home lab
+* diy gel electrophoresis 
+* diy incubator
+* diy pcr
 * make cells glow
 * make apple skin glow and eat it
 * make skin glow 
@@ -26,6 +29,8 @@
 * induce pluripotency 
 * grow a dense array of Merkel cells and use an electrode array to encode. then make the world's best touch sensor. like 1000s of times better than our fingers 
 * build an OTTO liquid handler
+* make a solution of lipids under a microscope and demonstrate primitive vesicle division and formation 
+* culture some random stuff and do pcr and electrophoresis 
 
 
 ### bend
