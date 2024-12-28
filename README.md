@@ -68,6 +68,7 @@
 * plate techtonics modeling, mineral maps. deep sea mining and ocean acidification
 * legal precedence graph. gather up all court cases and extract dependency information and build a graph
 * open source genius clone but fully embrace the collective media. not just music but all books videos etc. 
+* download a bunch of mr beast videos and look at the audio and basic statistics on how loud voices are 
 
 
 ### process and av
@@ -98,5 +99,12 @@
     * https://www.youtube.com/shorts/4pF9QDVZmQY
 * big inflated rolling lighting. make a large 3d printed base https://duckylay.com/products/duckylay-duck-lamp. make have kick to turn on? also allow for battery or plug. make it float. balloon light
 * nautilus gears sculpture cad https://www.instagram.com/reel/DCFsP6Sy3uY/
+
+### government and public health
+* model endocrine system and answer wht does endocrine disruptor mean
+* research the history of chemical regulation in the us 
+    * did banning leaded gasoline "work"?
+* check if pubchem links to epa limits easily 
+* how much is the concentration of EDCs going up over time (in breast milk for example)?
 
 ### done
