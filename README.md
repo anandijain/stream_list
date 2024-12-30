@@ -31,7 +31,8 @@
 * build an OTTO liquid handler
 * make a solution of lipids under a microscope and demonstrate primitive vesicle division and formation 
 * culture some random stuff and do pcr and electrophoresis 
-
+* model LUCA 
+* download a ton of genomes, iteratively refine them to figure out which genes are the most conserved DIY phylogenetics
 
 ### bend
 * diy interaction combinators 
@@ -69,7 +70,7 @@
 * legal precedence graph. gather up all court cases and extract dependency information and build a graph
 * open source genius clone but fully embrace the collective media. not just music but all books videos etc. 
 * download a bunch of mr beast videos and look at the audio and basic statistics on how loud voices are 
-
+* rpi thing that detects fire with low error and triggers a fire extinguisher
 
 ### process and av
 * transcribe all my videos (just with yt-dlp) ,make them searchable notebook lm/rag thing? 
@@ -82,6 +83,7 @@
 * make a small script that quickly copies and renders the footage from the go pros using ffmpeg 
 * "how to make a build montage" - go over mark rober, stuffmadehere, etc to see what they do 
 * make a "for tha summer" style edit
+* roaming stream/driving stream https://www.starlink.com/us/roam 
 
 ### cas3 
 * merge jupyter pr  
