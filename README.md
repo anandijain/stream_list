@@ -105,6 +105,6 @@
 * research the history of chemical regulation in the us 
     * did banning leaded gasoline "work"?
 * check if pubchem links to epa limits easily 
-* how much is the concentration of EDCs going up over time (in breast milk for example)?
+* how much is the concentration of EDCs going up over time (in breast milk for example)?0
 
 ### done
