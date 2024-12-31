@@ -33,6 +33,7 @@
 * culture some random stuff and do pcr and electrophoresis 
 * model LUCA 
 * download a ton of genomes, iteratively refine them to figure out which genes are the most conserved DIY phylogenetics
+* does alphafold have a ribosome world model implicitly learned? basically an AI molecular dynamics project
 
 ### bend
 * diy interaction combinators 
