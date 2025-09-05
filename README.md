@@ -6,6 +6,7 @@
 * 3d reconstruction of printed geometry 
 * generative design
     * there are many instances where there are only a few driving parameters for a design-example: DC switching power supply etc. the question is: given a list of specifications can the form factor, circuit, etc be generated? 
+* 500 sub special. write names of all public subs with the CNC. need to figure out how to do a timelapse triggered by homing or switches (can I do it with GRBL board?)
 
 ### textiles
 * computer design of flexible materials / cad to support / designing a tent
