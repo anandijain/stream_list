@@ -35,7 +35,8 @@
 * model LUCA 
 * download a ton of genomes, iteratively refine them to figure out which genes are the most conserved DIY phylogenetics
 * does alphafold have a ribosome world model implicitly learned? basically an AI molecular dynamics project
-* economics of vegan gelatin bioreactor 
+* economics of vegan gelatin bioreactor
+* long term ($20k) openIDS2 https://github.com/regiregire/OpenIDS2 https://www.nature.com/articles/s41598-024-53944-x
 
 ### bend
 * diy interaction combinators 
