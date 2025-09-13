@@ -75,6 +75,7 @@
 * open source genius clone but fully embrace the collective media. not just music but all books videos etc. 
 * download a bunch of mr beast videos and look at the audio and basic statistics on how loud voices are 
 * rpi thing that detects fire with low error and triggers a fire extinguisher
+* what if you could pay/invest in the ability to recommend videos to people (algorithmically) and based on viewer retention and basically ad dropoff engagement would get a cut of ad revenue? basically decentralizes Google's YouTube algorithm since it's atrocious 
 
 ### process and av
 * transcribe all my videos (just with yt-dlp) ,make them searchable notebook lm/rag thing? 
@@ -96,7 +97,6 @@
 * basic OutputForm 
 
 ### one day builds
-* double pendulum desktop toy (608 bearings, 3d print)
 * array of https://www.youtube.com/watch?v=C-V1uXeyGmg 
     * would be cool to make waterproof, have it point at the garage and put a qr code to the streams making it.
     * what happens if you point a projector at the mirror section?
@@ -115,3 +115,4 @@
 * how much is the concentration of EDCs going up over time (in breast milk for example)?0
 
 ### done
+* double pendulum desktop toy (608 bearings, 3d print)
