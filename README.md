@@ -37,6 +37,7 @@
 * does alphafold have a ribosome world model implicitly learned? basically an AI molecular dynamics project
 * economics of vegan gelatin bioreactor
 * long term ($20k) openIDS2 https://github.com/regiregire/OpenIDS2 https://www.nature.com/articles/s41598-024-53944-x
+* diy 3d printed microtome and at home microscope slide prep 
 
 ### bend
 * diy interaction combinators 
