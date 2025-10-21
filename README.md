@@ -78,6 +78,7 @@
 * what if you could pay/invest in the ability to recommend videos to people (algorithmically) and based on viewer retention and basically ad dropoff engagement would get a cut of ad revenue? basically decentralizes Google's YouTube algorithm since it's atrocious 
 * diy dynamicland https://youtu.be/5Q9r-AEzRMA why Bret Victor didn't open source it I have no idea
 * human head joystick
+* liquid crystal tunable filter and acusto optical tunable filter 
 
 ### process and av
 * transcribe all my videos (just with yt-dlp) ,make them searchable notebook lm/rag thing? 
