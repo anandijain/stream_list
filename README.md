@@ -110,6 +110,7 @@
     * https://www.youtube.com/shorts/4pF9QDVZmQY
 * big inflated rolling lighting. make a large 3d printed base https://duckylay.com/products/duckylay-duck-lamp. make have kick to turn on? also allow for battery or plug. make it float. balloon light
 * nautilus gears sculpture cad https://www.instagram.com/reel/DCFsP6Sy3uY/
+* diy glasses windshield wipers 
 
 ### government and public health
 * model endocrine system and answer wht does endocrine disruptor mean
