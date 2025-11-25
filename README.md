@@ -54,6 +54,7 @@
 * prove Playfair's axiom
 * continue with Mathematics in Lean series 
 * prove that it takes 6 cuts to square a block - or figure out how to show the minimal necesary constraints required in each cut to square the block 
+* extend taos equational theories from magmas to (2,2) algebras, where instead of one closed binary op, we have two.
 
 ### misc
 * enzyme rust mnist 
