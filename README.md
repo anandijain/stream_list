@@ -49,12 +49,16 @@
 * proof of confluence 
 * ski combinators? what do the resulting graphs look like?
 
-### lean 
+### math/lean 
 * basic euclidean geometry - is_rectangular_cuboid
 * prove Playfair's axiom
 * continue with Mathematics in Lean series 
 * prove that it takes 6 cuts to square a block - or figure out how to show the minimal necesary constraints required in each cut to square the block 
 * extend taos equational theories from magmas to (2,2) algebras, where instead of one closed binary op, we have two.
+* explore the "shape" of different equational definitions of various algebras. ie we know that there exists a 1-based equational group definition
+    - apparently there also exists a 1 based and 1-opbased definition of groups. 
+    - apparently it is also true that not all algebras are 1-based. it is not known whether all algebras are 1-opbased (something weird about godel codings here)
+    - so basically if we could list all the definitions of groups (which are (0,1,2)-algebras) based on the #eqs, #ops, arities, and #vars, what do the extrema look like?
 
 ### misc
 * enzyme rust mnist 
