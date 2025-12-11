@@ -59,7 +59,7 @@
     - apparently there also exists a 1 based and 1-opbased definition of groups. 
     - apparently it is also true that not all algebras are 1-based. it is not known whether all algebras are 1-opbased (something weird about godel codings here)
     - so basically if we could list all the definitions of groups (which are (0,1,2)-algebras) based on the #eqs, #ops, arities, and #vars, what do the extrema look like?
-* image space llm iterated maps, divergence, fixed points, orbits, gamut of iterated maps stuff 
+* image space llm iterated maps, divergence, fixed points, orbits, gamut of iterated maps stuff, scaling laws 
 
 ### misc
 * enzyme rust mnist 
