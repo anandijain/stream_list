@@ -117,13 +117,14 @@
 * big inflated rolling lighting. make a large 3d printed base https://duckylay.com/products/duckylay-duck-lamp. make have kick to turn on? also allow for battery or plug. make it float. balloon light
 * nautilus gears sculpture cad https://www.instagram.com/reel/DCFsP6Sy3uY/
 * diy glasses windshield wipers 
+* take gel and do the constraint satisfaction problem of restriction enzyme fragment lengths and infer the map of the sites. question 8 S3 in Wong 6b lab manual
 
 ### government and public health
 * model endocrine system and answer wht does endocrine disruptor mean
 * research the history of chemical regulation in the us 
     * did banning leaded gasoline "work"?
 * check if pubchem links to epa limits easily 
-* how much is the concentration of EDCs going up over time (in breast milk for example)?0
+* how much is the concentration of EDCs going up over time (in breast milk for example)?
 
 ### done
 * double pendulum desktop toy (608 bearings, 3d print)
