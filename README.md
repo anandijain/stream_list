@@ -119,6 +119,7 @@
 * nautilus gears sculpture cad https://www.instagram.com/reel/DCFsP6Sy3uY/
 * diy glasses windshield wipers 
 * take gel and do the constraint satisfaction problem of restriction enzyme fragment lengths and infer the map of the sites. question 8 S3 in Wong 6b lab manual
+* scrape ratemyproffesors and find the WORST profs 
 
 ### government and public health
 * model endocrine system and answer wht does endocrine disruptor mean
