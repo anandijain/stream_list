@@ -122,6 +122,7 @@
 * take gel and do the constraint satisfaction problem of restriction enzyme fragment lengths and infer the map of the sites. question 8 S3 in Wong 6b lab manual
 * scrape ratemyproffesors and find the WORST profs 
 * embedding permutations  https://chatgpt.com/share/69aa04cb-f1e8-8009-ad66-14087dcbcf23
+* ginkgo cloud lab petri art https://cloud.ginkgo.bio/
 
 ### government and public health
 * model endocrine system and answer wht does endocrine disruptor mean
