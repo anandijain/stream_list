@@ -16,11 +16,15 @@
 ### chemistry 
 * finally do symbolic rewriting of molecules (basically graph pattern objects) - copy mathematica https://www.youtube.com/watch?v=LTgg88jy5w8
 * inverse problem: determine the class or reactions that are energetically favorable and lead to nucleic acids 
-* anhydrous ethanol
+* anhydrous ethanol from sugar wash
 * cannabis oil and later THC purification by vacuum distillation
-* wintergreen
 * alkali metal extraction 
 * pot still 
+* piperine extraction
+* capsaicin extraction
+* wintergreen from salicylic 
+* cinnamon 
+* vanillin
 
 ### bio 
 * hardware building a home lab
@@ -138,3 +142,4 @@
 
 ### done
 * double pendulum desktop toy (608 bearings, 3d print)
+* wintergreen from aspirin
