@@ -25,6 +25,9 @@
 * wintergreen from salicylic 
 * cinnamon 
 * vanillin
+* vacuum distillation 
+* anthranilic acid fischer 
+* redo isopentyl fischer with acetic anhydride 
 
 ### bio 
 * hardware building a home lab
