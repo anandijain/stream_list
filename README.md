@@ -28,6 +28,8 @@
 * vacuum distillation 
 * anthranilic acid fischer 
 * redo isopentyl fischer with acetic anhydride 
+* steam distillation 
+* make/recreate a perfume/cologne 
 
 ### bio 
 * hardware building a home lab
