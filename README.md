@@ -17,7 +17,8 @@
 * finally do symbolic rewriting of molecules (basically graph pattern objects) - copy mathematica https://www.youtube.com/watch?v=LTgg88jy5w8
 * inverse problem: determine the class or reactions that are energetically favorable and lead to nucleic acids 
 * anhydrous ethanol from sugar wash
-* cannabis oil and later THC purification by vacuum distillation
+* cannabis oil and later THC purification
+* vacuum distillation
 * alkali metal extraction 
 * pot still 
 * piperine extraction
@@ -30,6 +31,7 @@
 * redo isopentyl fischer with acetic anhydride 
 * steam distillation 
 * make/recreate a perfume/cologne 
+* 
 
 ### bio 
 * hardware building a home lab
