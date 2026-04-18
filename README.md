@@ -31,6 +31,7 @@
 * redo isopentyl fischer with acetic anhydride 
 * steam distillation 
 * make/recreate a perfume/cologne 
+* citric acid from lemons
 * 
 
 ### bio 
