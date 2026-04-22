@@ -32,7 +32,7 @@
 * steam distillation 
 * make/recreate a perfume/cologne 
 * citric acid from lemons
-* 
+* trimethyl borate (green flames)
 
 ### bio 
 * hardware building a home lab
