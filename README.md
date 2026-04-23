@@ -33,6 +33,8 @@
 * make/recreate a perfume/cologne 
 * citric acid from lemons
 * trimethyl borate (green flames)
+* make an ampule (glassblowing)
+* pid controller box?
 
 ### bio 
 * hardware building a home lab
