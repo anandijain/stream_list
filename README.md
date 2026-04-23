@@ -34,6 +34,7 @@
 * citric acid from lemons
 * trimethyl borate (green flames)
 * make an ampule (glassblowing)
+* max31855 to display and log vapor temperature
 * pid controller box?
 
 ### bio 
