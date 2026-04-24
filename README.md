@@ -60,6 +60,7 @@
 * long term ($20k) openIDS2 https://github.com/regiregire/OpenIDS2 https://www.nature.com/articles/s41598-024-53944-x
 * diy 3d printed microtome and at home microscope slide prep. ultrasonics? peltier on device?
 * photolithographic (light-directed) in situ oligonucleotide synthesis https://mediaplayer.pearsoncmg.com/assets/secs-bio-hhmi-gene-chip-manufacturing
+* make roses smell like something else, like pinene, limonene, etc
 
 ### bend
 * diy interaction combinators 
