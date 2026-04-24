@@ -36,6 +36,7 @@
 * make an ampule (glassblowing)
 * max31855 to display and log vapor temperature
 * pid controller box?
+* recreate louis pasteurs discovery of chirality experiments 
 
 ### bio 
 * hardware building a home lab
