@@ -37,6 +37,7 @@
 * max31855 to display and log vapor temperature
 * pid controller box?
 * recreate louis pasteurs discovery of chirality experiments 
+* measure the soxhlet time to coffee mass extraction
 
 ### bio 
 * hardware building a home lab
