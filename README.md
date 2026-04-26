@@ -39,6 +39,7 @@
 * recreate louis pasteurs discovery of chirality experiments 
 * measure the soxhlet time to coffee mass extraction
 * open up kitchen scale and have microcontroller continuously log mass for sugar wash
+* custom clothes cyanotyping https://www.instagram.com/reel/DRS8Ue9krYy
 
 ### bio 
 * hardware building a home lab
