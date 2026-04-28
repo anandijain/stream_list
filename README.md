@@ -40,6 +40,7 @@
 * measure the soxhlet time to coffee mass extraction
 * open up kitchen scale and have microcontroller continuously log mass for sugar wash
 * custom clothes cyanotyping https://www.instagram.com/reel/DRS8Ue9krYy
+* fermet and purify lactic acid from milk or cabbage
 
 ### bio 
 * hardware building a home lab
