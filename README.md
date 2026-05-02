@@ -43,6 +43,7 @@
 * fermet and purify lactic acid from milk or cabbage
 * use acetobacteria to turn a sugar wash into acetic acid
 * turn acetic acid into glacial
+* steam distill Sichuan / sanshool 
 
 ### bio 
 * hardware building a home lab
