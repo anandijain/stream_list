@@ -44,6 +44,7 @@
 * use acetobacteria to turn a sugar wash into acetic acid
 * turn acetic acid into glacial
 * steam distill Sichuan / sanshool 
+* methyl salicylate thin layer chromatography (use illuminator.ato to viz)
 
 ### bio 
 * hardware building a home lab
