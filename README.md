@@ -45,6 +45,7 @@
 * turn acetic acid into glacial
 * steam distill Sichuan / sanshool 
 * methyl salicylate thin layer chromatography (use illuminator.ato to viz)
+* hydrogen generator
 
 ### bio 
 * hardware building a home lab
