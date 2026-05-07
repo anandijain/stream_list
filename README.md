@@ -155,6 +155,7 @@
 * scrape ratemyproffesors and find the WORST profs 
 * embedding permutations  https://chatgpt.com/share/69aa04cb-f1e8-8009-ad66-14087dcbcf23
 * ginkgo cloud lab petri art https://cloud.ginkgo.bio/
+* compare the PCB and breadboard versions of the ben eater clock with a scope (credit to commenter @rdw3875 on YouTube)
 
 ### government and public health
 * model endocrine system and answer wht does endocrine disruptor mean
