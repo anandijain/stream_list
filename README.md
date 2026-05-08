@@ -71,6 +71,7 @@
 * photolithographic (light-directed) in situ oligonucleotide synthesis https://mediaplayer.pearsoncmg.com/assets/secs-bio-hhmi-gene-chip-manufacturing
 * make roses smell like something else, like pinene, limonene, etc
 * pglo in yeast, make glowing yeast to learn how yeast transformation works
+* move a gene from a plant to ecoli (rna purification, reverse transcriptase cDNA, pcr with overhangs, ...)
 
 ### bend
 * diy interaction combinators 
