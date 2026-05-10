@@ -72,6 +72,7 @@
 * make roses smell like something else, like pinene, limonene, etc
 * pglo in yeast, make glowing yeast to learn how yeast transformation works
 * move a gene from a plant to ecoli (rna purification, reverse transcriptase cDNA, pcr with overhangs, ...)
+* engineer a rose without thorns 
 
 ### bend
 * diy interaction combinators 
