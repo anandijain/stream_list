@@ -46,6 +46,8 @@
 * steam distill Sichuan / sanshool 
 * methyl salicylate thin layer chromatography (use illuminator.ato to viz)
 * hydrogen generator
+* use nmr at school 
+* submit a sample to a commercial nmr 
 
 ### bio 
 * hardware building a home lab
