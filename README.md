@@ -12,6 +12,8 @@
 * computer design of flexible materials / cad to support / designing a tent
 * diy tufting robot
 * manufacturing 100+ triangular canvases of different sides to make a large tufted scultpure 
+* https://www.instagram.com/reel/DWGGzEshk24/
+* bioyarn and biomaterials
 
 ### chemistry 
 * finally do symbolic rewriting of molecules (basically graph pattern objects) - copy mathematica https://www.youtube.com/watch?v=LTgg88jy5w8
