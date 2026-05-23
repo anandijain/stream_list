@@ -162,6 +162,7 @@
 * embedding permutations  https://chatgpt.com/share/69aa04cb-f1e8-8009-ad66-14087dcbcf23
 * ginkgo cloud lab petri art https://cloud.ginkgo.bio/
 * compare the PCB and breadboard versions of the ben eater clock with a scope (credit to commenter @rdw3875 on YouTube)
+* do something with nfc tags https://www.instagram.com/reel/DUVWO4TCbOP/?utm_source=ig_web_copy_link
 
 ### government and public health
 * model endocrine system and answer wht does endocrine disruptor mean
