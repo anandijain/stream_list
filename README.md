@@ -50,6 +50,7 @@
 * hydrogen generator
 * use nmr at school 
 * submit a sample to a commercial nmr 
+* AI in the loop chemrulez synthesis - also an interesting llm benchmark 
 
 ### bio 
 * hardware building a home lab
