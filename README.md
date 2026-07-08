@@ -142,6 +142,7 @@
 * make a "for tha summer" style edit
 * roaming stream/driving stream https://www.starlink.com/us/roam 
 * I built the ULTIMATE outdoor workbench, follows sunlight power, and it's HUGE. Omni wheels, can raise up and down, auto leveler 
+* x402 metered streams 
 
 ### cas3 
 * merge jupyter pr  
