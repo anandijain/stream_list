@@ -50,7 +50,8 @@
 * hydrogen generator
 * use nmr at school 
 * submit a sample to a commercial nmr 
-* AI in the loop chemrulez synthesis - also an interesting llm benchmark 
+* AI in the loop chemrulez synthesis - also an interesting llm benchmark.
+* reverse engineer smelling molecules by doing ligand protein binding for olfaction proteins 
 
 ### bio 
 * hardware building a home lab
