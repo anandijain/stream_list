@@ -129,6 +129,7 @@
 * diy dynamicland https://youtu.be/5Q9r-AEzRMA why Bret Victor didn't open source it I have no idea
 * human head joystick
 * liquid crystal tunable filter and acusto optical tunable filter 
+* phonetic anagrams https://youtube.com/shorts/3ipFdRfFvK4 
 
 ### process and av
 * transcribe all my videos (just with yt-dlp) ,make them searchable notebook lm/rag thing? 
