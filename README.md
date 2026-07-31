@@ -53,7 +53,8 @@
 * AI in the loop chemrulez synthesis - also an interesting llm benchmark.
 * reverse engineer smelling molecules by doing ligand protein binding for olfaction proteins 
 * pmechdb
-* oeis 628 recreate and also make iupac renderer for saturated alkanes acyclic. more generally hydrocarbon and chemistry combinatorics 
+* oeis 628 recreate and also make iupac renderer for saturated alkanes acyclic. more generally hydrocarbon and chemistry combinatorics
+* "rediscover" named reactions by trying to look at a reaction database and extracting classes of transformation patterns. it seemed like ASKCOS had this
 
 ### bio 
 * hardware building a home lab
