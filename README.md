@@ -106,6 +106,7 @@
     - so basically if we could list all the definitions of groups (which are (0,1,2)-algebras) based on the #eqs, #ops, arities, and #vars, what do the extrema look like?
 * image space llm iterated maps, divergence, fixed points, orbits, gamut of iterated maps stuff, scaling laws 
 * prove that for even n that n charges placed on a line cannot be in static equilibrium 
+* large scale ai search of oeis sequences and connections 
 
 ### misc
 * enzyme rust mnist 
