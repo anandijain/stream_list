@@ -108,6 +108,9 @@
 * prove that for even n that n charges placed on a line cannot be in static equilibrium 
 * large scale ai search of oeis sequences and connections 
 
+### physics 
+* build atom scale double slit (https://arxiv.org/abs/2410.19671) but with trapped electrons
+
 ### misc
 * enzyme rust mnist 
 * ai evals - o1 
