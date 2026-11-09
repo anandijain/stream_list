@@ -110,6 +110,7 @@
 
 ### physics 
 * build atom scale double slit (https://arxiv.org/abs/2410.19671) but with trapped electrons
+* build cathode ray, see corona discharge
 
 ### misc
 * enzyme rust mnist 
