@@ -112,6 +112,17 @@
 * build atom scale double slit (https://arxiv.org/abs/2410.19671) but with trapped electrons
 * build cathode ray, see corona discharge
 
+### tinycpu
+* fpga in logisim/hdl
+* buy fpga and run tinycpu on it
+* openroad/place and route tinycpu (layout)
+* calling convention 
+* small compiler capable
+* show turing completeness with various TC models
+* load store isa (rv32i)
+* linear algebra 
+* design a programmable gpu/inference accelerator
+
 ### misc
 * enzyme rust mnist 
 * ai evals - o1 
