@@ -122,6 +122,7 @@
 * load store isa (rv32i)
 * linear algebra 
 * design a programmable gpu/inference accelerator
+* definition of complete: fpga runs display, can use keyboard, can write programs and compile/assemble on device 
 
 ### misc
 * enzyme rust mnist 
