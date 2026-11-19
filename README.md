@@ -84,7 +84,7 @@
 * engineer a rose without thorns 
 * ribosome phylogenetics 
 
-### bend
+### bend/interaction combinators
 * diy interaction combinators 
 * matmul how fast is linear algebra 
 * cellular automata
@@ -93,6 +93,7 @@
 * lean pf of ic turing completeness?
 * proof of confluence 
 * ski combinators? what do the resulting graphs look like?
+* combinatorial enumeration (and counting) of interaction systems 
 
 ### math/lean 
 * basic euclidean geometry - is_rectangular_cuboid
