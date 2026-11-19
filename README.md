@@ -94,6 +94,7 @@
 * proof of confluence 
 * ski combinators? what do the resulting graphs look like?
 * combinatorial enumeration (and counting) of interaction systems 
+* busy beaver in IC/IS
 
 ### math/lean 
 * basic euclidean geometry - is_rectangular_cuboid
