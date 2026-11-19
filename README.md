@@ -151,6 +151,7 @@
 * human head joystick
 * liquid crystal tunable filter and acusto optical tunable filter 
 * phonetic anagrams https://youtube.com/shorts/3ipFdRfFvK4 
+* revisit the LSST classification neural diff eq project with AI
 
 ### process and av
 * transcribe all my videos (just with yt-dlp) ,make them searchable notebook lm/rag thing? 
